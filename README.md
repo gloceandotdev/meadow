@@ -22,6 +22,10 @@ Eight neutrals for the ground colors, and six flower shades that each come in a 
 
 These are just the main shades. The full list, along with which color goes where, is in the guidelines.
 
+## Ports
+
+- [Ghostty](ports/ghostty)
+
 ## Guidelines
 
 If you want to make a port, please read [GUIDELINES.md](GUIDELINES.md) first. It is short, I promise. It says which color is used for what (keywords, strings, errors, diffs, and so on), so every port ends up looking like the same theme.
