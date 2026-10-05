@@ -81,58 +81,58 @@
     },
     "flowers": {
       "poppy": {
-        "main": "#a56260",
-        "soft": "#b77b7a",
-        "tint": "#f3cfce"
+        "main": "#9e4c4d",
+        "soft": "#b16968",
+        "tint": "#f1d2d1"
       },
       "marigold": {
-        "main": "#a9825a",
-        "soft": "#bc9a78",
-        "tint": "#e8d5c3"
+        "main": "#925f2a",
+        "soft": "#a5794e",
+        "tint": "#ecd6c3"
       },
       "sage": {
-        "main": "#6e8272",
-        "soft": "#87978a",
-        "tint": "#d3dcd4"
+        "main": "#536e59",
+        "soft": "#6d8472",
+        "tint": "#d1dfd4"
       },
       "dew": {
-        "main": "#5f828b",
-        "soft": "#7a98a0",
-        "tint": "#ccdde1"
+        "main": "#2d717d",
+        "soft": "#518792",
+        "tint": "#c1e1e8"
       },
       "cornflower": {
-        "main": "#6a7c9d",
-        "soft": "#8393af",
-        "tint": "#d0daea"
+        "main": "#4b6697",
+        "soft": "#667ea9",
+        "tint": "#cedbf3"
       },
       "lavender": {
-        "main": "#807597",
-        "soft": "#968caa",
-        "tint": "#dbd6e7"
+        "main": "#6d5b90",
+        "soft": "#8374a3",
+        "tint": "#ddd6ef"
       }
     },
     "terminal": {
       "background": "#f1ecf7",
       "foreground": "#352c3f",
-      "cursor": "#807597",
-      "selection_background": "#dbd6e7",
+      "cursor": "#6d5b90",
+      "selection_background": "#ddd6ef",
       "selection_foreground": "#352c3f",
       "ansi": [
         "#f8f5fc",
-        "#b77b7a",
-        "#87978a",
-        "#bc9a78",
-        "#8393af",
-        "#968caa",
-        "#7a98a0",
+        "#b16968",
+        "#6d8472",
+        "#a5794e",
+        "#667ea9",
+        "#8374a3",
+        "#518792",
         "#5c5169",
         "#a9a0b4",
-        "#a56260",
-        "#6e8272",
-        "#a9825a",
-        "#6a7c9d",
-        "#807597",
-        "#5f828b",
+        "#9e4c4d",
+        "#536e59",
+        "#925f2a",
+        "#4b6697",
+        "#6d5b90",
+        "#2d717d",
         "#352c3f"
       ]
     }

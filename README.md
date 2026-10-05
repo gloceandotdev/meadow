@@ -13,12 +13,12 @@ Eight neutrals for the ground colors, and six flower shades that each come in a 
 
 | Flower | Meadow | Meadow Light |
 |---|---|---|
-| poppy | `#d68583` | `#a56260` |
-| marigold | `#e9b17c` | `#a9825a` |
-| sage | `#a4bba9` | `#6e8272` |
-| dew | `#84c7d5` | `#5f828b` |
-| cornflower | `#9cb8eb` | `#6a7c9d` |
-| lavender | `#c1b0e7` | `#807597` |
+| poppy | `#d68583` | `#9e4c4d` |
+| marigold | `#e9b17c` | `#925f2a` |
+| sage | `#a4bba9` | `#536e59` |
+| dew | `#84c7d5` | `#2d717d` |
+| cornflower | `#9cb8eb` | `#4b6697` |
+| lavender | `#c1b0e7` | `#6d5b90` |
 
 These are just the main shades. The full list, along with which color goes where, is in the guidelines.
 
