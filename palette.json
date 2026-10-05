@@ -45,7 +45,8 @@
     "terminal": {
       "background": "#1f1a24",
       "foreground": "#ebe7f0",
-      "cursor": "#c1b0e7",
+      "cursor": "#ebe7f0",
+      "cursor_text": "#1f1a24",
       "selection_background": "#4c4161",
       "selection_foreground": "#ebe7f0",
       "ansi": [
@@ -114,7 +115,8 @@
     "terminal": {
       "background": "#f1ecf7",
       "foreground": "#352c3f",
-      "cursor": "#6d5b90",
+      "cursor": "#352c3f",
+      "cursor_text": "#f1ecf7",
       "selection_background": "#ddd6ef",
       "selection_foreground": "#352c3f",
       "ansi": [

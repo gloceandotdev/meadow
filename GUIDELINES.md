@@ -80,7 +80,7 @@ Poppy, marigold and sage double as the status colors (error, warning and success
 
 | What | Color |
 |---|---|
-| Cursor | lavender main |
+| Cursor | text, with base for the character under it |
 | Current line | night background |
 | Selection | lavender tint background, text keeps its own colors |
 | Search matches | marigold tint background |
@@ -134,4 +134,4 @@ Italics are used for comments and docstrings only (and quotes in markup). If the
 | 14 | bright cyan | `#84c7d5` | `#2d717d` |
 | 15 | bright white | `#ebe7f0` | `#352c3f` |
 
-On top of the 16 colors, use base for the background, text for the foreground, lavender main for the cursor and lavender tint for the selection. "Black" and "white" are named after their place in a dark terminal, so in Meadow Light black is the light one and white is the dark one. That is normal for light themes, and it keeps programs that hardcode these colors readable.
+On top of the 16 colors, use base for the background, text for the foreground, text for the cursor (with base for the character under it) and lavender tint for the selection. "Black" and "white" are named after their place in a dark terminal, so in Meadow Light black is the light one and white is the dark one. That is normal for light themes, and it keeps programs that hardcode these colors readable.
