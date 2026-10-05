@@ -12,58 +12,58 @@
     },
     "flowers": {
       "poppy": {
-        "main": "#aa5656",
-        "soft": "#844546",
-        "tint": "#603535"
+        "main": "#d68583",
+        "soft": "#b06a69",
+        "tint": "#623b3b"
       },
       "marigold": {
-        "main": "#e0ad78",
-        "soft": "#b5815a",
-        "tint": "#735741"
+        "main": "#e9b17c",
+        "soft": "#c49365",
+        "tint": "#5d4127"
       },
       "sage": {
-        "main": "#a9b8ac",
-        "soft": "#87998b",
-        "tint": "#4f6356"
+        "main": "#a4bba9",
+        "soft": "#879b8c",
+        "tint": "#3a4d3e"
       },
       "dew": {
-        "main": "#96c5d1",
-        "soft": "#6fa0a9",
-        "tint": "#39666b"
+        "main": "#84c7d5",
+        "soft": "#6ca6b2",
+        "tint": "#1e5059"
       },
       "cornflower": {
-        "main": "#a4bde9",
-        "soft": "#7f99c7",
-        "tint": "#4e5e7a"
+        "main": "#9cb8eb",
+        "soft": "#8099c5",
+        "tint": "#374866"
       },
       "lavender": {
-        "main": "#c4b5e3",
-        "soft": "#9d8cc4",
-        "tint": "#5d5077"
+        "main": "#c1b0e7",
+        "soft": "#a192c2",
+        "tint": "#4c4161"
       }
     },
     "terminal": {
       "background": "#1f1a24",
       "foreground": "#ebe7f0",
-      "cursor": "#c4b5e3",
-      "selection_background": "#5d5077",
+      "cursor": "#c1b0e7",
+      "selection_background": "#4c4161",
       "selection_foreground": "#ebe7f0",
       "ansi": [
         "#2a2431",
-        "#844546",
-        "#87998b",
-        "#b5815a",
-        "#7f99c7",
-        "#9d8cc4",
-        "#6fa0a9",
+        "#b06a69",
+        "#879b8c",
+        "#c49365",
+        "#8099c5",
+        "#a192c2",
+        "#6ca6b2",
         "#b9b0c6",
         "#5f5769",
-        "#aa5656",
-        "#a9b8ac",
-        "#e0ad78",
-        "#a4bde9",
-        "#c4b5e3",
-        "#96c5d1",
+        "#d68583",
+        "#a4bba9",
+        "#e9b17c",
+        "#9cb8eb",
+        "#c1b0e7",
+        "#84c7d5",
         "#ebe7f0"
       ]
     }

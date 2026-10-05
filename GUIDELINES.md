@@ -36,12 +36,12 @@ There are six flowers, and each one comes in three shades:
 
 | Flower | Meadow (main / soft / tint) | Meadow Light (main / soft / tint) |
 |---|---|---|
-| poppy | `#aa5656` `#844546` `#603535` | `#a56260` `#b77b7a` `#f3cfce` |
-| marigold | `#e0ad78` `#b5815a` `#735741` | `#a9825a` `#bc9a78` `#e8d5c3` |
-| sage | `#a9b8ac` `#87998b` `#4f6356` | `#6e8272` `#87978a` `#d3dcd4` |
-| dew | `#96c5d1` `#6fa0a9` `#39666b` | `#5f828b` `#7a98a0` `#ccdde1` |
-| cornflower | `#a4bde9` `#7f99c7` `#4e5e7a` | `#6a7c9d` `#8393af` `#d0daea` |
-| lavender | `#c4b5e3` `#9d8cc4` `#5d5077` | `#807597` `#968caa` `#dbd6e7` |
+| poppy | `#d68583` `#b06a69` `#623b3b` | `#a56260` `#b77b7a` `#f3cfce` |
+| marigold | `#e9b17c` `#c49365` `#5d4127` | `#a9825a` `#bc9a78` `#e8d5c3` |
+| sage | `#a4bba9` `#879b8c` `#3a4d3e` | `#6e8272` `#87978a` `#d3dcd4` |
+| dew | `#84c7d5` `#6ca6b2` `#1e5059` | `#5f828b` `#7a98a0` `#ccdde1` |
+| cornflower | `#9cb8eb` `#8099c5` `#374866` | `#6a7c9d` `#8393af` `#d0daea` |
+| lavender | `#c1b0e7` `#a192c2` `#4c4161` | `#807597` `#968caa` `#dbd6e7` |
 
 Poppy, marigold and sage double as the status colors (error, warning and success). That is on purpose, so try to not use them for anything that could be mistaken for a status.
 
@@ -118,20 +118,20 @@ Italics are used for comments and docstrings only (and quotes in markup). If the
 | # | Color | Meadow | Meadow Light |
 |---|---|---|---|
 | 0 | black | `#2a2431` | `#f8f5fc` |
-| 1 | red | `#844546` | `#b77b7a` |
-| 2 | green | `#87998b` | `#87978a` |
-| 3 | yellow | `#b5815a` | `#bc9a78` |
-| 4 | blue | `#7f99c7` | `#8393af` |
-| 5 | magenta | `#9d8cc4` | `#968caa` |
-| 6 | cyan | `#6fa0a9` | `#7a98a0` |
+| 1 | red | `#b06a69` | `#b77b7a` |
+| 2 | green | `#879b8c` | `#87978a` |
+| 3 | yellow | `#c49365` | `#bc9a78` |
+| 4 | blue | `#8099c5` | `#8393af` |
+| 5 | magenta | `#a192c2` | `#968caa` |
+| 6 | cyan | `#6ca6b2` | `#7a98a0` |
 | 7 | white | `#b9b0c6` | `#5c5169` |
 | 8 | bright black | `#5f5769` | `#a9a0b4` |
-| 9 | bright red | `#aa5656` | `#a56260` |
-| 10 | bright green | `#a9b8ac` | `#6e8272` |
-| 11 | bright yellow | `#e0ad78` | `#a9825a` |
-| 12 | bright blue | `#a4bde9` | `#6a7c9d` |
-| 13 | bright magenta | `#c4b5e3` | `#807597` |
-| 14 | bright cyan | `#96c5d1` | `#5f828b` |
+| 9 | bright red | `#d68583` | `#a56260` |
+| 10 | bright green | `#a4bba9` | `#6e8272` |
+| 11 | bright yellow | `#e9b17c` | `#a9825a` |
+| 12 | bright blue | `#9cb8eb` | `#6a7c9d` |
+| 13 | bright magenta | `#c1b0e7` | `#807597` |
+| 14 | bright cyan | `#84c7d5` | `#5f828b` |
 | 15 | bright white | `#ebe7f0` | `#352c3f` |
 
 On top of the 16 colors, use base for the background, text for the foreground, lavender main for the cursor and lavender tint for the selection. "Black" and "white" are named after their place in a dark terminal, so in Meadow Light black is the light one and white is the dark one. That is normal for light themes, and it keeps programs that hardcode these colors readable.
