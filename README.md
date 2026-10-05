@@ -14,7 +14,7 @@ Eight neutrals for the ground colors, and six flower shades that each come in a 
 | Flower | Meadow | Meadow Light |
 |---|---|---|
 | poppy | `#d68583` | `#9e4c4d` |
-| marigold | `#e9b17c` | `#925f2a` |
+| marigold | `#e9b17c` | `#ac5701` |
 | sage | `#a4bba9` | `#536e59` |
 | dew | `#84c7d5` | `#2d717d` |
 | cornflower | `#9cb8eb` | `#4b6697` |

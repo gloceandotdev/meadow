@@ -37,7 +37,7 @@ There are six flowers, and each one comes in three shades:
 | Flower | Meadow (main / soft / tint) | Meadow Light (main / soft / tint) |
 |---|---|---|
 | poppy | `#d68583` `#b06a69` `#623b3b` | `#9e4c4d` `#b16968` `#f1d2d1` |
-| marigold | `#e9b17c` `#c49365` `#5d4127` | `#925f2a` `#a5794e` `#ecd6c3` |
+| marigold | `#e9b17c` `#c49365` `#5d4127` | `#ac5701` `#c0743c` `#eed5c5` |
 | sage | `#a4bba9` `#879b8c` `#3a4d3e` | `#536e59` `#6d8472` `#d1dfd4` |
 | dew | `#84c7d5` `#6ca6b2` `#1e5059` | `#2d717d` `#518792` `#c1e1e8` |
 | cornflower | `#9cb8eb` `#8099c5` `#374866` | `#4b6697` `#667ea9` `#cedbf3` |
@@ -120,7 +120,7 @@ Italics are used for comments and docstrings only (and quotes in markup). If the
 | 0 | black | `#2a2431` | `#f8f5fc` |
 | 1 | red | `#b06a69` | `#b16968` |
 | 2 | green | `#879b8c` | `#6d8472` |
-| 3 | yellow | `#c49365` | `#a5794e` |
+| 3 | yellow | `#c49365` | `#c0743c` |
 | 4 | blue | `#8099c5` | `#667ea9` |
 | 5 | magenta | `#a192c2` | `#8374a3` |
 | 6 | cyan | `#6ca6b2` | `#518792` |
@@ -128,7 +128,7 @@ Italics are used for comments and docstrings only (and quotes in markup). If the
 | 8 | bright black | `#5f5769` | `#a9a0b4` |
 | 9 | bright red | `#d68583` | `#9e4c4d` |
 | 10 | bright green | `#a4bba9` | `#536e59` |
-| 11 | bright yellow | `#e9b17c` | `#925f2a` |
+| 11 | bright yellow | `#e9b17c` | `#ac5701` |
 | 12 | bright blue | `#9cb8eb` | `#4b6697` |
 | 13 | bright magenta | `#c1b0e7` | `#6d5b90` |
 | 14 | bright cyan | `#84c7d5` | `#2d717d` |
