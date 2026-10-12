@@ -9,8 +9,8 @@ Everything here applies to both Meadow and Meadow Light. Each color keeps the sa
 - Only use colors from the palette. Do not add new ones, and do not lighten, darken or mix them.
 - Do not use transparency to fake a color. If an app forces you to use alpha somewhere, pick the tint that is closest to what you need.
 - Ship both versions, and call them `meadow` and `meadow-light` (or `Meadow` and `Meadow Light` if the app shows names to people).
-- Put the port in its own folder under `ports/`, with a short README that explains how to install it.
-- If an app has something these tables do not cover, pick whatever color is closest in meaning and write down what you did in the port's README.
+- Put the port in its own folder under `ports/`, with a short README that explains how to install it. If the app's package manager needs the port to have its own repo (MELPA does, for Emacs), that is fine too, it will just be linked from here instead.
+- If an app has something these tables do not cover, pick whatever color is closest in meaning.
 
 ## Ground
 
