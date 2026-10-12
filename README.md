@@ -24,6 +24,7 @@ These are just the main shades. The full list, along with which color goes where
 
 ## Ports
 
+- [Emacs](https://github.com/gloceandotdev/emacs-meadow-theme)
 - [Ghostty](ports/ghostty)
 
 ## Guidelines
@@ -36,7 +37,7 @@ If there isn't a port for an app you use, and you can't make one yourself, feel 
 
 ## Submitting a Port
 
-If you have made a port, then go ahead and open a pull request that adds it to `ports/`. After a review, it will be added here and to the website.
+If you have made a port, then go ahead and open a pull request that adds it to `ports/`. If it lives in its own repo, the pull request can just add a link to it in the list above. After a review, it will be added here and to the website.
 
 ## Contrast
 
