@@ -25,6 +25,7 @@ These are just the main shades. The full list, along with which color goes where
 ## Ports
 
 - [Emacs](https://github.com/gloceandotdev/emacs-meadow-theme)
+- [Feishin](ports/feishin)
 - [Ghostty](ports/ghostty)
 
 ## Guidelines

@@ -1,0 +1,26 @@
+{
+  "mode": "dark",
+  "colors": {
+    "background": "#1f1a24",
+    "background-alternate": "#17131b",
+    "foreground": "#ebe7f0",
+    "foreground-muted": "#958aa3",
+    "primary": "#c1b0e7",
+    "state-error": "#d68583",
+    "state-info": "#84c7d5",
+    "state-success": "#a4bba9",
+    "state-warning": "#e9b17c",
+    "surface": "#2a2431",
+    "surface-foreground": "#b9b0c6"
+  },
+  "app": {
+    "scrollbar-handle-background": "#3a3245",
+    "scrollbar-handle-hover-background": "#5f5769",
+    "scrollbar-handle-active-background": "#5f5769"
+  },
+  "mantineOverride": {
+    "primaryShade": {
+      "dark": 2
+    }
+  }
+}
