@@ -1,22 +1,22 @@
 {
   "mode": "light",
   "colors": {
-    "background": "#f1ecf7",
-    "background-alternate": "#e6e0ed",
-    "foreground": "#352c3f",
-    "foreground-muted": "#81778d",
-    "primary": "#6d5b90",
-    "state-error": "#9e4c4d",
-    "state-info": "#2d717d",
-    "state-success": "#536e59",
-    "state-warning": "#ac5701",
-    "surface": "#f8f5fc",
-    "surface-foreground": "#5c5169"
+    "background": "#f7e8ee",
+    "background-alternate": "#efdee4",
+    "foreground": "#382a3d",
+    "foreground-muted": "#857284",
+    "primary": "#715c97",
+    "state-error": "#b9454c",
+    "state-info": "#217584",
+    "state-success": "#507357",
+    "state-warning": "#b76316",
+    "surface": "#fbf1f5",
+    "surface-foreground": "#5f4e63"
   },
   "app": {
-    "scrollbar-handle-background": "#d9d2e2",
-    "scrollbar-handle-hover-background": "#a9a0b4",
-    "scrollbar-handle-active-background": "#a9a0b4"
+    "scrollbar-handle-background": "#e1ced7",
+    "scrollbar-handle-hover-background": "#ab98a5",
+    "scrollbar-handle-active-background": "#ab98a5"
   },
   "mantineOverride": {
     "primaryShade": {

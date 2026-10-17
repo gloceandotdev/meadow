@@ -71,71 +71,71 @@
   },
   "meadow-light": {
     "ground": {
-      "night": "#e6e0ed",
-      "base": "#f1ecf7",
-      "surface": "#f8f5fc",
-      "overlay": "#d9d2e2",
-      "dim": "#a9a0b4",
-      "muted": "#81778d",
-      "subtle": "#5c5169",
-      "text": "#352c3f"
+      "night": "#efdee4",
+      "base": "#f7e8ee",
+      "surface": "#fbf1f5",
+      "overlay": "#e1ced7",
+      "dim": "#ab98a5",
+      "muted": "#857284",
+      "subtle": "#5f4e63",
+      "text": "#382a3d"
     },
     "flowers": {
       "poppy": {
-        "main": "#9e4c4d",
-        "soft": "#b16968",
-        "tint": "#f1d2d1"
+        "main": "#b9454c",
+        "soft": "#c86265",
+        "tint": "#f8d4d3"
       },
       "marigold": {
-        "main": "#ac5701",
-        "soft": "#c0743c",
-        "tint": "#eed5c5"
+        "main": "#b76316",
+        "soft": "#c57b3d",
+        "tint": "#f6dac2"
       },
       "sage": {
-        "main": "#536e59",
-        "soft": "#6d8472",
-        "tint": "#d1dfd4"
+        "main": "#507357",
+        "soft": "#6b8970",
+        "tint": "#d0e2d3"
       },
       "dew": {
-        "main": "#2d717d",
-        "soft": "#518792",
-        "tint": "#c1e1e8"
+        "main": "#217584",
+        "soft": "#4c8b98",
+        "tint": "#bfe4ec"
       },
       "cornflower": {
-        "main": "#4b6697",
-        "soft": "#667ea9",
-        "tint": "#cedbf3"
+        "main": "#4a68a0",
+        "soft": "#6680b1",
+        "tint": "#ceddf8"
       },
       "lavender": {
-        "main": "#6d5b90",
-        "soft": "#8374a3",
-        "tint": "#ddd6ef"
+        "main": "#715c97",
+        "soft": "#8775aa",
+        "tint": "#e0d7f4"
       }
     },
     "terminal": {
-      "background": "#f1ecf7",
-      "foreground": "#352c3f",
-      "cursor": "#352c3f",
-      "cursor_text": "#f1ecf7",
-      "selection_background": "#ddd6ef",
-      "selection_foreground": "#352c3f",
+      "background": "#f7e8ee",
+      "foreground": "#382a3d",
+      "cursor": "#382a3d",
+      "cursor_text": "#f7e8ee",
+      "selection_background": "#e0d7f4",
+      "selection_foreground": "#382a3d",
       "ansi": [
-        "#f8f5fc",
-        "#b16968",
-        "#6d8472",
-        "#c0743c",
-        "#667ea9",
-        "#8374a3",
-        "#518792",
-        "#5c5169",
-        "#a9a0b4",
-        "#9e4c4d",
-        "#536e59",
-        "#ac5701",
-        "#4b6697",
-        "#6d5b90",
-        "#2d717d",
-        "#352c3f"
+        "#fbf1f5",
+        "#c86265",
+        "#6b8970",
+        "#c57b3d",
+        "#6680b1",
+        "#8775aa",
+        "#4c8b98",
+        "#5f4e63",
+        "#ab98a5",
+        "#b9454c",
+        "#507357",
+        "#b76316",
+        "#4a68a0",
+        "#715c97",
+        "#217584",
+        "#382a3d"
       ]
     }
   }
